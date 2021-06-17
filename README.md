@@ -1,5 +1,9 @@
 # How to use
 
+## Install Github desktop 
+
+Download and install Github desktop from [here](https://desktop.github.com/)
+
 ## Install Node
 
 Download and install NodeJS from [here](https://nodejs.org/en/)
@@ -13,6 +17,8 @@ Download and install VSCode from [here](https://code.visualstudio.com/)
 Follow this guide [here](https://code.visualstudio.com/docs/editor/integrated-terminal)
 
 ## Run the local server
+
+First time install dependencies with `npm i`
 
 Run a local server by typing `npm run start` in the terminal
 
